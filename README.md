@@ -23,30 +23,4 @@ Skew.fun helps traders understand **market pressure before price moves** by anal
 
 ---
 
-## Why Skew.fun?
 
-Most tools show **price after it moves**
-Skew.fun shows **intent before it moves**
-
----
-
-## Stack
-
-* React / Vite
-* Web3 + Wallet integration
-* Exchange APIs / WebSockets
-
----
-
-## Run Locally
-
-```bash
-npm install
-npm run dev
-```
-
----
-
-## Vision
-
-> Trade based on **data + intent**, not noise.
